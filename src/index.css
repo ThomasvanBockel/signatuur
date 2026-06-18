@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+    --background: #E8F9FF;
+    --card-start: #FFEAEA;
+    --card-end: #B0A9A9;
+    --pipe-start-end: #5C7155;
+    --pipe-background: #C1FFB9;
+    --water-color: #6AB34F;
+    --bubble-color: #81FF90;
+}
+
+@theme {
+    --color-background: var(--background);
+    --pipe-background: var(--pipe-background);
+    --pipe-start-end: var(--pipe-start-end);
+    --card-start: var(--card-start);
+    --card-end: var(--card-end);
+    --water-color: var(--water-color);
+
+}
