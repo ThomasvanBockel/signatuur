@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 import path from "path";
 
 export default defineConfig({
-    base: '/',   // 👈 DIT MISSEN JE
+    base: '/signatuur/',   // 👈 MUST
     plugins: [react(), tailwindcss()],
     resolve: {
         alias: {
