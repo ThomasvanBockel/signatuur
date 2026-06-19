@@ -160,7 +160,7 @@ function Home() {
                 <Card title="TLE-4: Tool box" setOpen={setOpen} open={open} id='4'>
                     <div className="flex gap-3 flex-col">
                         <p>
-                            OVer Jobs to be done ben ik er nog niet over uit van wat ik er van vindt, op dit moment
+                            Over Jobs to be done ben ik er nog niet over uit van wat ik er van vindt, op dit moment
                             vindt
                             ik het een hele interested manier om te bekijken wat de doelgroep nodig heeft, maar ik
                             snap het nog niet genoeg over. Dit wil ik ook veranderen door dit na school meer over te
