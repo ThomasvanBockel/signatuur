@@ -116,7 +116,11 @@ function Home() {
                             was nadat ik iets te lang voor me hield terwijl ik niet wist hoe ik het moest doen. Hierdoor
                             verloren we tijd en was ik langer bezig met een onderdeel wat de front-ends nodig had. Dit
                             heb ik proberen aan te pakken in TLE-4 door niet te lang te wachten met vragen aan docenten,
-                            dit is ook goed uitpakt omdat ik hier niet opnieuw feedback over ontving.
+                            dit is ook goed uitpakt omdat ik hier niet opnieuw feedback over ontving. Een goed voorbeeld
+                            van dat ik eerder naar docenten ga, is over de network errors tijdens mijn stress test, ik
+                            ben snel naar de docent toegestapt zodat we achter konden komen of het door mijn code kwam
+                            of door iets anders. Als ik niet naar de docent ben toegestapt zou ik uren langer verspilt
+                            hebben aan iets waar ik niks aan kan doen.
                         </p>
                         <p>
                             Ook kreeg ik feedback dat ik niet altijd mijn vragen moest stellen aan een persoon, dit
@@ -271,6 +275,13 @@ function Home() {
                             mijn projecten. Ik wil dat de mens de baas blijft over AI en niet data AI de baas wordt en
                             de mens bestuurd, dit kan ik doen door bijvoorbeeld AI niet verplicht te maken om te
                             gebruiken.
+                        </p>
+                        <p>
+                            In de toekomst wil ik altijd voorzichtig omgaan met AI en mensen altijd de keuze laten maken
+                            om geen AI te gebruiken, dit is ook gebeurt in Board-it, hier kan de gebruiker kiezen om AI
+                            te gebruiken maar het is niet verplicht. Ik wil mezelf ook verder verdiepen in de toekomst,
+                            hiervoor ben ik aan het kijken waar ik het boek Nexus kan lezen. Nexus gaat over de impact
+                            van AI op onze samenleving.
                         </p>
                     </div>
                 </Card>
