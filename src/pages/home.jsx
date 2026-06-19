@@ -56,17 +56,17 @@ function Home() {
                     <div className="flex gap-3 flex-col">
                         <p>
                             In TLE-3 moesten we kiezen tussen front-end en back-end. Ik koos voor back-end omdat ik dat
-                            op dat moment leuker vondt. Als back-end moesten we twee teams hun back-end regelen. We
-                            mochten niet bij elkaar zitten zodat we makkelijk konden communiceren.
+                            op dat moment leuker vond. Als back-end moesten we voor twee teams hun back-end regelen. We
+                            mochten niet bij elkaar zitten, zodat we makkelijk konden communiceren.
                         </p>
                         <p>
-                            Onze opdracht voor TLE-3 was een gemeente website maken waar de gebruikers via AI suggesties
-                            achter belangrijk informatie en nuttig informatie kwam. Hiervoor hadden we als back-end een
-                            twee AI lead's aangesteld, dat was ik niet.
+                            Onze opdracht voor TLE-3 was een gemeentewebsite maken waar de gebruikers via AI-suggesties
+                            belangrijke en nuttige informatie konden krijgen. Hiervoor hadden we als back-end twee
+                            AI-leads aangesteld, dat was ik niet.
                         </p>
                         <p>
-                            Mijn taak was om de communicatie te regelen tussen mijn front-end team en de back-end, ook
-                            moest ik meewerken met de back-end API.
+                            Mijn taak was om de communicatie te regelen tussen mijn front-end team en de back-end. Ook
+                            moest ik meewerken aan de ontwikkeling van de back-end API.
                         </p>
                     </div>
                 </Card>
@@ -74,23 +74,22 @@ function Home() {
                 <Card title="TLE-3: Tool box" setOpen={setOpen} open={open} id='1'>
                     <div className="flex gap-3 flex-col">
                         <p>
-                            Ik hebben voor TLE-3 een benchmark onderzoek gedaan om te zien welke andere websites er
-                            waren die op ons product leken, dit was voor mij heel handig omdat ik dan kon zien wat ik
-                            goed vondt, en wat ik minder goed vondt aan een website van een concurrent.
+                            Ik heb voor TLE-3 een benchmarkonderzoek gedaan om te zien welke andere websites er waren
+                            die op ons product leken. Dit was voor mij heel handig, omdat ik dan kon zien wat ik goed
+                            vond en wat ik minder goed vond aan een website van een concurrent.
                         </p>
                         <p>
-                            Metaforen
-                            Tijdens TLE-3 hebben we met metaforen gewerkt, dit vond ik persoonlijk een leuke manier om
-                            de doelgroep meer te betrekken tot het product. Door een metafoor te teken wisten ze meer of
-                            we op een lijn zaten, maar ik denk niet dat ik het vaker ga gebruiken, het is moeilijk voor
-                            mij om ene goed gesprek verder te laten lopen en te tekenen tegelijkertijd, waardoor het
-                            soms ongemakkelijk was of dat ik niet goed luisterde.
+                            Tijdens TLE-3 hebben we met metaforen gewerkt. Dit vond ik persoonlijk een leuke manier om
+                            de doelgroep meer te betrekken bij het product. Door een metafoor te tekenen wisten we beter
+                            of we op één lijn zaten, maar ik denk niet dat ik het vaker ga gebruiken. Het is moeilijk
+                            voor mij om een goed gesprek verder te laten lopen en tegelijkertijd te tekenen, waardoor
+                            het soms ongemakkelijk was omdat ik niet goed luisterde.
                         </p>
                         <p>
-                            De critical walktrough vondt ik heel nuttig, het was een goede manier om te zien waar er op
-                            werd gedrukt en wat nog niet duidelijk was. Vanuit de critical walktrough kreeg ik meer
-                            inzichten voor wat logische keuzes waren en wat minder logische keuzes waren waardoor we
-                            onze prototype konden verbeteren.
+                            De critical walkthrough vond ik heel nuttig. Het was een goede manier om te zien waar er op
+                            werd gedrukt en wat nog niet duidelijk was. Vanuit de critical walkthrough kreeg ik meer
+                            inzichten in wat logische keuzes waren en wat minder logische keuzes waren, waardoor we ons
+                            prototype konden verbeteren.
                         </p>
                     </div>
                 </Card>
@@ -99,25 +98,30 @@ function Home() {
                     <div className="flex gap-3 flex-col">
                         <p>
                             In TLE-3 moest ik in een back-end team werken. Hier moesten we apart werken van onze
-                            front-end teams. In ons back-end team hadden we geen goede rolverdeling gemaakt, hierdoor
-                            werdt het onduidelijk wat iedereen moest doen en wat iedereen aan het doen was.
-                            Teamverband
+                            front-end teams. In ons back-end team hadden we geen goede rolverdeling gemaakt. Hierdoor
+                            werd
+                            het onduidelijk wat iedereen moest doen en waar iedereen mee bezig was.
                         </p>
                         <p>
-                            Communicate
+
                             In TLE-3 moesten we veel communiceren met de front-end teams, ik probeerde dat zo veel
-                            mogelijk te doen met mijn front-end team, daar kreeg ik ook positief feedback op. Alleen
+                            mogelijk te doen met mijn front-end team, op het begin ging het minder goed. Daar kreeg ik
+                            feedback op wat ik gelijk oppakte, daar kreeg ik ook positief feedback op. Alleen
                             ging het niet altijd even goed, de communicatie van mijn andere teamleden met mijn front-end
                             team ging minder goed waardoor er veel onduidelijkheden ontstonden. Door de onduidelijkheden
                             verliep het project soms stroefjes.
                         </p>
                         <p>
-                            sneller vragen aan leraren
                             Als feedback van mijn team kreeg ik dat ik sneller vragen moest stellen aan docenten, dit
                             was nadat ik iets te lang voor me hield terwijl ik niet wist hoe ik het moest doen. Hierdoor
                             verloren we tijd en was ik langer bezig met een onderdeel wat de front-ends nodig had. Dit
                             heb ik proberen aan te pakken in TLE-4 door niet te lang te wachten met vragen aan docenten,
                             dit is ook goed uitpakt omdat ik hier niet opnieuw feedback over ontving.
+                        </p>
+                        <p>
+                            Ook kreeg ik feedback dat ik niet altijd mijn vragen moest stellen aan een persoon, dit
+                            vindt ik altijd moeilijk om aan te pakken omdat ik altijd vragen stel aan de persoon naast
+                            me.
                         </p>
                     </div>
                 </Card>
@@ -125,14 +129,17 @@ function Home() {
                 <Card title="TLE-4: Context" setOpen={setOpen} open={open} id='3'>
                     <div className="flex gap-3 flex-col">
                         <p>
-                            Tijdens TLE-4 hebben we Board-it gemaakt, Board-it is een website voor 1ste jaars studenten
-                            op CMGT. Board-it is een website waar studiegroepen gemaakt kunnen worden, in studiegroepen
+                            Tijdens TLE-4 hebben we Board-it gemaakt, Board-it is een website voor eerste jaars
+                            studenten
+                            op CMGT met ADHD. Board-it is een website waar studiegroepen gemaakt kunnen worden, in
+                            studiegroepen
                             kunnen er hoofdtaken aangemaakt worden, elke persoon in de groep kunnen individuele subtaken
-                            aanmaken op de hoofdtaken, zodat ze het kunnen afvinken.
+                            aanmaken op de hoofdtaken, zodat ze het kunnen afvinken. Ze kunnen ook momenten inplannen om
+                            samen te studeren.
                         </p>
                         <p>
                             We hebben voor de back-end laravel gebruikt, dit hebben we gedaan omdat laravel al veel aan
-                            ons geeft waardoor we minder tijd hoeven te besteden aan het back-end. Het front-end hebben
+                            ons geeft waardoor we minder tijd hoeven te besteden aan het back-end. De front-end hebben
                             we gemaakt in React,
                         </p>
                         <p>
@@ -157,28 +164,31 @@ function Home() {
                             door AI.
                         </p>
                         <p>
-                            Ik vind de Business model canvas een hele interested manier om het zakelijke gedeelte van
+                            Ik vind de business model canvas een hele interested manier om het zakelijke gedeelte van
                             een website / app te maken. Natuurlijk wist ik dat er ook verdient moet worden aan
-                            website's, maar tijdens mijn vorige TLE's hab ik er niet aan gedacht. De Business model
+                            website's, maar tijdens mijn vorige TLE's hab ik er niet aan gedacht. De business model
                             canvas heeft me geholpen om daar over na te denken door bijvoorbeeld te bedenken hoe we geld
                             konden verdienen met Board-it. de business model canvas heeft het voor mij ook goed op een
                             rijtje gezet, ik weet niet zeker hoe ik het in de toekomst kan gebruiken voor PLE's want ik
-                            ken de opdrachten niet maar ik denk zeker dat ik de business model canvas ga meenemen naar
-                            de toekomst.
+                            ken de opdrachten niet maar ik denk zeker dat ik de business model canvas in de toekomst ga
+                            gebruiken.
                         </p>
                         <p>
-                            De waarde propositie vindt ik moeilijk, dit is omdat het veel te maken heeft met jobs, die
+                            De waarde propositie vindt ik moeilijk, dit is omdat het veel te maken heeft met jobs to be
+                            done, die
                             ik nogsteeds moeilijk vindt, maar ook omdat ik voor een (eerste) waarde propositie veel
                             moest nadenken als onze doelgroep om aannames te maken, wat we natuurlijk later bij de
                             doelgroep getest had. Dit zorgde er wel voor dat ik me meer richtte op de doelgroep, maar
                             het
-                            koste me wel veel tijd. Ik de waarde propositie mee nemen in toekomstige projecten zodat ik
-                            me goed vanuit de doelgroep kan richten.
+                            koste me wel veel tijd. Ik denk dat ik de waarde propositie ga gebruiken in toekomstige
+                            projecten zodat ik
+                            mezelf goed nadenk over wat de doelgroep nodig heeft..
                         </p>
                         <p>
-                            de learning en test cards vond ik persoonlijk niet heel fijn om mee te werken, het was voor
-                            mij dubbel omdat ik altijd al opschreef wat we wilden weten en de
-                            resultaten opstelde. Door de cards te gebruiken moest ik nu alles dubbel schrijven wat ik
+                            De learning en test cards vond ik persoonlijk niet heel fijn om mee te werken, het was voor
+                            mij dubbel omdat ik altijd al opschreef wat we wilden weten, wat we denken waat er gaat
+                            gebeuren en de
+                            resultaten. Door de cards te gebruiken moest ik nu alles dubbel schrijven wat ik
                             niet heel handig vindt.
                         </p>
                     </div>
@@ -218,8 +228,8 @@ function Home() {
                             wat de schrijver denkt wat de toekomst van de mens is.
                         </p>
                         <p>
-                            De schrijver verteld dat de homo
-                            sapiens
+                            De schrijver verteld dat de Homo
+                            Sapiens
                             het
                             verhaal mens was, door verhalen te vertellen konden we veel meer mensen tot een doel
                             brengen
@@ -237,6 +247,10 @@ function Home() {
                         <p>
                             Homo Deus is de volgende mens met goddelijke krachten, door AI en algoritmes hebben ze
                             ouderdom en ziektes weggehaald. Alles is geoptimaliseerd waaronder ander emoties.
+                        </p>
+                        <p>
+                            Ik vondt het boek heel intressant waardoor ik ook Homo Sapiens gekocht heb, het is alleen
+                            nog niet aangekomen.
                         </p>
 
                     </div>
@@ -286,7 +300,11 @@ function Home() {
                             met components en werken in react.
                         </p>
                         <p>
-                            Ai heb ik ook gebruikt om mijn spelling te controleren,
+                            Ai heb ik ook geprobeerd gebruikt om mijn spelling te controleren, dat ging alleen niet goed
+                            waardoor ik halverwege gestopt ben met het checken van spelling via AI. AI ging sommige
+                            worden samenvoegen wat niet handig was. <a
+                            href="https://chatgpt.com/c/6a352207-3b54-83eb-babb-5e35c94087df"
+                            className="text-blue-700 underline">Link naar ChatGPT</a>
                         </p>
                     </div>
                 </Card>
